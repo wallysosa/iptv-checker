@@ -35,16 +35,22 @@ def fetch_playlist(url: str) -> str | None:
         return None
 
 
-def parse_m3u(content: str) -> list[dict]:
+def parse_m3u(content: str, source_url: str = "") -> list[dict]:
     """Parsea una playlist M3U y extrae canales."""
     channels = []
     lines = content.strip().splitlines()
     current_info = {}
 
+    # Nombre corto de la fuente (host:port)
+    try:
+        parsed = urllib.parse.urlparse(source_url)
+        source_label = parsed.netloc or source_url
+    except Exception:
+        source_label = source_url
+
     for line in lines:
         line = line.strip()
         if line.startswith("#EXTINF"):
-            # Extraer nombre del canal
             name_match = re.search(r',(.+)$', line)
             tvg_id = re.search(r'tvg-id="([^"]*)"', line)
             group = re.search(r'group-title="([^"]*)"', line)
@@ -52,6 +58,7 @@ def parse_m3u(content: str) -> list[dict]:
                 "name": name_match.group(1).strip() if name_match else "Unknown",
                 "tvg_id": tvg_id.group(1) if tvg_id else "",
                 "group": group.group(1) if group else "",
+                "source": source_label,
             }
         elif line and not line.startswith("#") and current_info:
             current_info["url"] = line
@@ -69,6 +76,7 @@ def check_stream(channel: dict) -> dict:
         "url": url,
         "group": channel.get("group", ""),
         "tvg_id": channel.get("tvg_id", ""),
+        "source": channel.get("source", ""),
         "status": "unknown",
         "http_code": None,
         "response_time_ms": None,
@@ -173,7 +181,7 @@ def main():
         print(f"📥 Descargando playlist: {url}")
         content = fetch_playlist(url)
         if content:
-            channels = parse_m3u(content)
+            channels = parse_m3u(content, url)
             print(f"   → {len(channels)} canales encontrados")
             all_channels.extend(channels)
 
