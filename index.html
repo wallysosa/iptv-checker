@@ -329,8 +329,9 @@
   @media (max-width: 768px) {
     .container { padding: 1rem; }
     th:nth-child(3), td:nth-child(3),
-    th:nth-child(5), td:nth-child(5),
-    th:nth-child(6), td:nth-child(6) { display: none; }
+    th:nth-child(4), td:nth-child(4),
+    th:nth-child(6), td:nth-child(6),
+    th:nth-child(7), td:nth-child(7) { display: none; }
   }
 </style>
 </head>
@@ -385,6 +386,7 @@
           <th>Canal</th>
           <th>URL</th>
           <th>Grupo</th>
+          <th>Fuente</th>
           <th>Estado</th>
           <th>HTTP</th>
           <th>Resp.</th>
@@ -493,6 +495,7 @@ function renderTable() {
       <td><div class="channel-name" title="${esc(ch.name)}">${esc(ch.name)}</div></td>
       <td><div class="channel-url" title="${esc(ch.url)}">${esc(ch.url)}</div></td>
       <td>${ch.group ? `<span class="group-tag">${esc(ch.group)}</span>` : '<span style="color:var(--border)">—</span>'}</td>
+      <td>${ch.source ? `<span class="group-tag" style="background:rgba(0,229,255,0.08);color:var(--accent);border-color:rgba(0,229,255,0.2)">${esc(ch.source)}</span>` : '<span style="color:var(--border)">—</span>'}</td>
       <td><span class="status-badge ${s.cls}"><span class="dot${s.blink?' blink':''}"></span>${s.label.slice(2)}</span></td>
       <td><span class="http-code">${ch.http_code ?? '—'}</span></td>
       <td>${resp}</td>
