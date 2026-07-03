@@ -1,12 +1,12 @@
 {
   "stats": {
-    "total": 167,
+    "total": 198,
     "active": 165,
-    "denied": 0,
+    "denied": 31,
     "offline": 0,
     "timeout": 0,
     "error": 2,
-    "last_check": "2026-07-02T19:04:21.030553Z"
+    "last_check": "2026-07-03T01:26:33.593468Z"
   },
   "channels": [
     {
@@ -17,9 +17,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 108,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.766640Z",
+      "checked_at": "2026-07-03T01:26:31.854976Z",
       "error": null
     },
     {
@@ -30,9 +30,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.765432Z",
+      "checked_at": "2026-07-03T01:26:31.855812Z",
       "error": null
     },
     {
@@ -43,9 +43,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.765804Z",
+      "checked_at": "2026-07-03T01:26:31.856014Z",
       "error": null
     },
     {
@@ -56,10 +56,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 110,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.766505Z",
+      "checked_at": "2026-07-03T01:26:31.859047Z",
       "error": null
+    },
+    {
+      "name": "A&E HD",
+      "url": "http://45.170.40.11:8000/play/a00v/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.183801Z",
+      "error": "HTTP 403"
     },
     {
       "name": "A&E HD",
@@ -69,9 +82,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.767040Z",
+      "checked_at": "2026-07-03T01:26:31.859601Z",
       "error": null
     },
     {
@@ -84,7 +97,7 @@
       "http_code": 404,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.768049Z",
+      "checked_at": "2026-07-03T01:26:31.860411Z",
       "error": "HTTP 404"
     },
     {
@@ -95,9 +108,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.769558Z",
+      "checked_at": "2026-07-03T01:26:31.866953Z",
       "error": null
     },
     {
@@ -108,9 +121,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.768331Z",
+      "checked_at": "2026-07-03T01:26:31.860560Z",
       "error": null
     },
     {
@@ -121,10 +134,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.768691Z",
+      "checked_at": "2026-07-03T01:26:31.860843Z",
       "error": null
+    },
+    {
+      "name": "America TV HD",
+      "url": "http://45.170.40.11:8000/play/a00i/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.182428Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Animal Planet",
@@ -134,9 +160,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.769881Z",
+      "checked_at": "2026-07-03T01:26:31.867776Z",
       "error": null
     },
     {
@@ -147,10 +173,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.770125Z",
+      "checked_at": "2026-07-03T01:26:31.872162Z",
       "error": null
+    },
+    {
+      "name": "AXN HD",
+      "url": "http://45.170.40.11:8000/play/a00s/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.182110Z",
+      "error": "HTTP 403"
     },
     {
       "name": "AXN HD",
@@ -160,9 +199,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.768991Z",
+      "checked_at": "2026-07-03T01:26:31.861540Z",
       "error": null
     },
     {
@@ -173,9 +212,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.769296Z",
+      "checked_at": "2026-07-03T01:26:31.863652Z",
       "error": null
     },
     {
@@ -186,9 +225,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 108,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.770427Z",
+      "checked_at": "2026-07-03T01:26:31.873934Z",
       "error": null
     },
     {
@@ -199,9 +238,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.770716Z",
+      "checked_at": "2026-07-03T01:26:31.998941Z",
       "error": null
     },
     {
@@ -212,9 +251,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.872956Z",
+      "checked_at": "2026-07-03T01:26:32.002836Z",
       "error": null
     },
     {
@@ -225,9 +264,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.871586Z",
+      "checked_at": "2026-07-03T01:26:31.999408Z",
       "error": null
     },
     {
@@ -238,9 +277,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 111,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.872072Z",
+      "checked_at": "2026-07-03T01:26:32.002136Z",
       "error": null
     },
     {
@@ -251,9 +290,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.876350Z",
+      "checked_at": "2026-07-03T01:26:32.011076Z",
       "error": null
     },
     {
@@ -264,9 +303,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.876505Z",
+      "checked_at": "2026-07-03T01:26:32.013705Z",
       "error": null
     },
     {
@@ -277,9 +316,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.876927Z",
+      "checked_at": "2026-07-03T01:26:32.019703Z",
       "error": null
     },
     {
@@ -290,9 +329,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.877283Z",
+      "checked_at": "2026-07-03T01:26:32.143889Z",
       "error": null
     },
     {
@@ -303,9 +342,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.873143Z",
+      "checked_at": "2026-07-03T01:26:32.003618Z",
       "error": null
     },
     {
@@ -316,9 +355,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.878966Z",
+      "checked_at": "2026-07-03T01:26:32.144154Z",
       "error": null
     },
     {
@@ -329,9 +368,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 149,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.977718Z",
+      "checked_at": "2026-07-03T01:26:32.145354Z",
       "error": null
     },
     {
@@ -342,9 +381,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.977970Z",
+      "checked_at": "2026-07-03T01:26:32.146954Z",
       "error": null
     },
     {
@@ -355,9 +394,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.978947Z",
+      "checked_at": "2026-07-03T01:26:32.148125Z",
       "error": null
     },
     {
@@ -368,9 +407,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 109,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.979142Z",
+      "checked_at": "2026-07-03T01:26:32.148491Z",
       "error": null
     },
     {
@@ -381,9 +420,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.979777Z",
+      "checked_at": "2026-07-03T01:26:32.148914Z",
       "error": null
     },
     {
@@ -394,10 +433,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.980015Z",
+      "checked_at": "2026-07-03T01:26:32.149932Z",
       "error": null
+    },
+    {
+      "name": "Canal 4",
+      "url": "http://45.170.40.11:8000/play/a006/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.183996Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Canal 4 - NIC",
@@ -407,9 +459,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.980477Z",
+      "checked_at": "2026-07-03T01:26:32.150112Z",
       "error": null
     },
     {
@@ -420,9 +472,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.981217Z",
+      "checked_at": "2026-07-03T01:26:32.154465Z",
       "error": null
     },
     {
@@ -433,9 +485,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.981588Z",
+      "checked_at": "2026-07-03T01:26:32.155031Z",
       "error": null
     },
     {
@@ -446,9 +498,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.981940Z",
+      "checked_at": "2026-07-03T01:26:32.156894Z",
       "error": null
     },
     {
@@ -459,9 +511,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.982318Z",
+      "checked_at": "2026-07-03T01:26:32.158022Z",
       "error": null
     },
     {
@@ -472,9 +524,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.982856Z",
+      "checked_at": "2026-07-03T01:26:32.164695Z",
       "error": null
     },
     {
@@ -485,9 +537,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.983017Z",
+      "checked_at": "2026-07-03T01:26:32.202682Z",
       "error": null
     },
     {
@@ -498,9 +550,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.983377Z",
+      "checked_at": "2026-07-03T01:26:32.288813Z",
       "error": null
     },
     {
@@ -511,9 +563,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.984565Z",
+      "checked_at": "2026-07-03T01:26:32.289323Z",
       "error": null
     },
     {
@@ -524,9 +576,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 112,
+      "response_time_ms": 148,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.083400Z",
+      "checked_at": "2026-07-03T01:26:32.292265Z",
       "error": null
     },
     {
@@ -537,9 +589,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.873637Z",
+      "checked_at": "2026-07-03T01:26:32.003838Z",
       "error": null
     },
     {
@@ -550,9 +602,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 150,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.083826Z",
+      "checked_at": "2026-07-03T01:26:32.292448Z",
       "error": null
     },
     {
@@ -563,9 +615,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.874397Z",
+      "checked_at": "2026-07-03T01:26:32.005153Z",
       "error": null
     },
     {
@@ -576,9 +628,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.084176Z",
+      "checked_at": "2026-07-03T01:26:32.293994Z",
       "error": null
     },
     {
@@ -589,9 +641,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.874830Z",
+      "checked_at": "2026-07-03T01:26:32.005491Z",
       "error": null
     },
     {
@@ -602,9 +654,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.875213Z",
+      "checked_at": "2026-07-03T01:26:32.006022Z",
       "error": null
     },
     {
@@ -615,9 +667,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.084745Z",
+      "checked_at": "2026-07-03T01:26:32.294381Z",
       "error": null
     },
     {
@@ -628,9 +680,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.085626Z",
+      "checked_at": "2026-07-03T01:26:32.294818Z",
       "error": null
     },
     {
@@ -641,10 +693,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 148,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.875711Z",
+      "checked_at": "2026-07-03T01:26:32.008955Z",
       "error": null
+    },
+    {
+      "name": "Cinemax",
+      "url": "http://45.170.40.11:8000/play/a00b/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.184435Z",
+      "error": "HTTP 403"
     },
     {
       "name": "CineMax",
@@ -654,9 +719,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.086199Z",
+      "checked_at": "2026-07-03T01:26:32.295562Z",
       "error": null
     },
     {
@@ -667,9 +732,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.086676Z",
+      "checked_at": "2026-07-03T01:26:32.295947Z",
       "error": null
     },
     {
@@ -680,10 +745,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.087165Z",
+      "checked_at": "2026-07-03T01:26:32.299766Z",
       "error": null
+    },
+    {
+      "name": "CNN en Espaæol",
+      "url": "http://45.170.40.11:8000/play/a0at/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.183209Z",
+      "error": "HTTP 403"
     },
     {
       "name": "CNNE",
@@ -693,9 +771,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:19.876192Z",
+      "checked_at": "2026-07-03T01:26:32.010267Z",
       "error": null
     },
     {
@@ -706,9 +784,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.087375Z",
+      "checked_at": "2026-07-03T01:26:32.299937Z",
       "error": null
     },
     {
@@ -719,9 +797,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.087911Z",
+      "checked_at": "2026-07-03T01:26:32.301668Z",
       "error": null
     },
     {
@@ -732,9 +810,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.088098Z",
+      "checked_at": "2026-07-03T01:26:32.302174Z",
       "error": null
     },
     {
@@ -745,9 +823,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.089895Z",
+      "checked_at": "2026-07-03T01:26:32.433904Z",
       "error": null
     },
     {
@@ -758,9 +836,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.088456Z",
+      "checked_at": "2026-07-03T01:26:32.306319Z",
       "error": null
     },
     {
@@ -771,9 +849,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.187053Z",
+      "checked_at": "2026-07-03T01:26:32.437041Z",
       "error": null
     },
     {
@@ -784,9 +862,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.088777Z",
+      "checked_at": "2026-07-03T01:26:32.344695Z",
       "error": null
     },
     {
@@ -797,9 +875,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.188255Z",
+      "checked_at": "2026-07-03T01:26:32.437225Z",
       "error": null
     },
     {
@@ -810,9 +888,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.189064Z",
+      "checked_at": "2026-07-03T01:26:32.439931Z",
       "error": null
     },
     {
@@ -823,9 +901,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.189955Z",
+      "checked_at": "2026-07-03T01:26:32.441080Z",
       "error": null
     },
     {
@@ -836,9 +914,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 110,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.190198Z",
+      "checked_at": "2026-07-03T01:26:32.441424Z",
       "error": null
     },
     {
@@ -849,9 +927,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.190584Z",
+      "checked_at": "2026-07-03T01:26:32.442071Z",
       "error": null
     },
     {
@@ -862,9 +940,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 140,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.190914Z",
+      "checked_at": "2026-07-03T01:26:32.442205Z",
       "error": null
     },
     {
@@ -875,9 +953,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.191489Z",
+      "checked_at": "2026-07-03T01:26:32.442595Z",
       "error": null
     },
     {
@@ -888,10 +966,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.192885Z",
+      "checked_at": "2026-07-03T01:26:32.443846Z",
       "error": null
+    },
+    {
+      "name": "Disney Junior",
+      "url": "http://45.170.40.11:8000/play/a00c/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.185037Z",
+      "error": "HTTP 403"
     },
     {
       "name": "DISTRITO COMEDIA",
@@ -901,10 +992,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.089118Z",
+      "checked_at": "2026-07-03T01:26:32.432861Z",
       "error": null
+    },
+    {
+      "name": "DSports 2 HD",
+      "url": "http://45.170.40.11:8000/play/a05i/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.184740Z",
+      "error": "HTTP 403"
     },
     {
       "name": "E!",
@@ -914,10 +1018,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.193756Z",
+      "checked_at": "2026-07-03T01:26:32.444452Z",
       "error": null
+    },
+    {
+      "name": "E! Entertainment",
+      "url": "http://45.170.40.11:8000/play/a00f/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.185357Z",
+      "error": "HTTP 403"
     },
     {
       "name": "E! Entertairment HD",
@@ -927,9 +1044,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.194158Z",
+      "checked_at": "2026-07-03T01:26:32.444821Z",
       "error": null
     },
     {
@@ -940,10 +1057,36 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.295510Z",
+      "checked_at": "2026-07-03T01:26:32.586309Z",
       "error": null
+    },
+    {
+      "name": "el nueve HD",
+      "url": "http://45.170.40.11:8000/play/a00k/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.527603Z",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "el trece Internacional",
+      "url": "http://45.170.40.11:8000/play/a008/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.529034Z",
+      "error": "HTTP 403"
     },
     {
       "name": "ELIM TV - ESA",
@@ -953,10 +1096,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.195578Z",
+      "checked_at": "2026-07-03T01:26:32.448883Z",
       "error": null
+    },
+    {
+      "name": "ESPN",
+      "url": "http://45.170.40.11:8000/play/a052/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.185627Z",
+      "error": "HTTP 403"
     },
     {
       "name": "ESPN  4 HD",
@@ -966,10 +1122,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.195743Z",
+      "checked_at": "2026-07-03T01:26:32.491943Z",
       "error": null
+    },
+    {
+      "name": "ESPN 2",
+      "url": "http://45.170.40.11:8000/play/a051/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.185976Z",
+      "error": "HTTP 403"
     },
     {
       "name": "ESPN 2 HD",
@@ -979,10 +1148,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.196103Z",
+      "checked_at": "2026-07-03T01:26:32.578818Z",
       "error": null
+    },
+    {
+      "name": "ESPN 3",
+      "url": "http://45.170.40.11:8000/play/a053/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.186307Z",
+      "error": "HTTP 403"
     },
     {
       "name": "ESPN 3 HD",
@@ -992,9 +1174,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.196627Z",
+      "checked_at": "2026-07-03T01:26:32.580680Z",
       "error": null
     },
     {
@@ -1005,9 +1187,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.289981Z",
+      "checked_at": "2026-07-03T01:26:32.582300Z",
       "error": null
     },
     {
@@ -1018,9 +1200,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.294126Z",
+      "checked_at": "2026-07-03T01:26:32.583095Z",
       "error": null
     },
     {
@@ -1031,9 +1213,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.294648Z",
+      "checked_at": "2026-07-03T01:26:32.584202Z",
       "error": null
     },
     {
@@ -1044,9 +1226,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.294779Z",
+      "checked_at": "2026-07-03T01:26:32.584637Z",
       "error": null
     },
     {
@@ -1057,9 +1239,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.296060Z",
+      "checked_at": "2026-07-03T01:26:32.587111Z",
       "error": null
     },
     {
@@ -1070,9 +1252,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.295025Z",
+      "checked_at": "2026-07-03T01:26:32.585005Z",
       "error": null
     },
     {
@@ -1083,10 +1265,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 109,
+      "response_time_ms": 148,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.297280Z",
+      "checked_at": "2026-07-03T01:26:32.588772Z",
       "error": null
+    },
+    {
+      "name": "F1",
+      "url": "http://45.170.40.11:8000/play/a04f/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.186651Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Film & Arts",
@@ -1096,9 +1291,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.300368Z",
+      "checked_at": "2026-07-03T01:26:32.636529Z",
       "error": null
     },
     {
@@ -1109,10 +1304,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.301343Z",
+      "checked_at": "2026-07-03T01:26:32.723249Z",
       "error": null
+    },
+    {
+      "name": "Fox Sports 2",
+      "url": "http://45.170.40.11:8000/play/a054/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.187016Z",
+      "error": "HTTP 403"
     },
     {
       "name": "France24",
@@ -1122,9 +1330,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.303820Z",
+      "checked_at": "2026-07-03T01:26:32.725263Z",
       "error": null
     },
     {
@@ -1135,9 +1343,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 108,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.298047Z",
+      "checked_at": "2026-07-03T01:26:32.589127Z",
       "error": null
     },
     {
@@ -1148,9 +1356,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.299394Z",
+      "checked_at": "2026-07-03T01:26:32.589596Z",
       "error": null
     },
     {
@@ -1161,9 +1369,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.299534Z",
+      "checked_at": "2026-07-03T01:26:32.590358Z",
       "error": null
     },
     {
@@ -1174,9 +1382,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.300048Z",
+      "checked_at": "2026-07-03T01:26:32.591057Z",
       "error": null
     },
     {
@@ -1187,9 +1395,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.395863Z",
+      "checked_at": "2026-07-03T01:26:32.725452Z",
       "error": null
     },
     {
@@ -1200,9 +1408,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.398186Z",
+      "checked_at": "2026-07-03T01:26:32.728006Z",
       "error": null
     },
     {
@@ -1213,9 +1421,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.398546Z",
+      "checked_at": "2026-07-03T01:26:32.728453Z",
       "error": null
     },
     {
@@ -1226,9 +1434,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.398908Z",
+      "checked_at": "2026-07-03T01:26:32.730404Z",
       "error": null
     },
     {
@@ -1239,9 +1447,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.399881Z",
+      "checked_at": "2026-07-03T01:26:32.730801Z",
       "error": null
     },
     {
@@ -1252,9 +1460,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.401056Z",
+      "checked_at": "2026-07-03T01:26:32.731213Z",
       "error": null
     },
     {
@@ -1265,9 +1473,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.401392Z",
+      "checked_at": "2026-07-03T01:26:32.732145Z",
       "error": null
     },
     {
@@ -1278,9 +1486,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.402130Z",
+      "checked_at": "2026-07-03T01:26:32.732355Z",
       "error": null
     },
     {
@@ -1291,9 +1499,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.404130Z",
+      "checked_at": "2026-07-03T01:26:32.736964Z",
       "error": null
     },
     {
@@ -1304,9 +1512,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.405073Z",
+      "checked_at": "2026-07-03T01:26:32.737607Z",
       "error": null
     },
     {
@@ -1317,9 +1525,35 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.406098Z",
+      "checked_at": "2026-07-03T01:26:32.737850Z",
+      "error": null
+    },
+    {
+      "name": "History Channel",
+      "url": "http://45.170.40.11:8000/play/a055/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.187339Z",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "History HD",
+      "url": "http://181.119.177.253:8000/play/a0en/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "181.119.177.253:8000",
+      "status": "active",
+      "http_code": 200,
+      "response_time_ms": 144,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:32.868117Z",
       "error": null
     },
     {
@@ -1330,22 +1564,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.407225Z",
-      "error": null
-    },
-    {
-      "name": "History HD",
-      "url": "http://181.119.177.253:8000/play/a0en/index.m3u8?hls",
-      "group": "-",
-      "tvg_id": "",
-      "source": "181.119.177.253:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 102,
-      "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.409958Z",
+      "checked_at": "2026-07-03T01:26:32.867583Z",
       "error": null
     },
     {
@@ -1356,9 +1577,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.406491Z",
+      "checked_at": "2026-07-03T01:26:32.738620Z",
       "error": null
     },
     {
@@ -1369,9 +1590,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.406870Z",
+      "checked_at": "2026-07-03T01:26:32.781207Z",
       "error": null
     },
     {
@@ -1382,10 +1603,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.502542Z",
+      "checked_at": "2026-07-03T01:26:32.868532Z",
       "error": null
+    },
+    {
+      "name": "La Tele",
+      "url": "http://45.170.40.11:8000/play/a0b4/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.516296Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Latin America Sport",
@@ -1395,10 +1629,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.503170Z",
+      "checked_at": "2026-07-03T01:26:32.872773Z",
       "error": null
+    },
+    {
+      "name": "MTV×00",
+      "url": "http://45.170.40.11:8000/play/a00g/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.517467Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Multicinema",
@@ -1408,9 +1655,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.503318Z",
+      "checked_at": "2026-07-03T01:26:32.873371Z",
       "error": null
     },
     {
@@ -1421,9 +1668,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.503985Z",
+      "checked_at": "2026-07-03T01:26:32.873517Z",
       "error": null
     },
     {
@@ -1434,10 +1681,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.505137Z",
+      "checked_at": "2026-07-03T01:26:32.873931Z",
       "error": null
+    },
+    {
+      "name": "Nat Geo HD",
+      "url": "http://45.170.40.11:8000/play/a00t/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.518248Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Nat Geo HD",
@@ -1447,9 +1707,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.505553Z",
+      "checked_at": "2026-07-03T01:26:32.874549Z",
       "error": null
     },
     {
@@ -1460,10 +1720,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.506547Z",
+      "checked_at": "2026-07-03T01:26:32.875703Z",
       "error": null
+    },
+    {
+      "name": "Nickelodeon",
+      "url": "http://45.170.40.11:8000/play/a00d/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.519085Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Pasiones HD",
@@ -1473,9 +1746,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.507026Z",
+      "checked_at": "2026-07-03T01:26:32.876454Z",
       "error": null
     },
     {
@@ -1486,9 +1759,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 109,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.508478Z",
+      "checked_at": "2026-07-03T01:26:32.878924Z",
       "error": null
     },
     {
@@ -1499,9 +1772,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.508880Z",
+      "checked_at": "2026-07-03T01:26:32.882194Z",
       "error": null
     },
     {
@@ -1512,9 +1785,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.509434Z",
+      "checked_at": "2026-07-03T01:26:32.883685Z",
       "error": null
     },
     {
@@ -1525,10 +1798,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 108,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.509762Z",
+      "checked_at": "2026-07-03T01:26:32.885542Z",
       "error": null
+    },
+    {
+      "name": "Saeta Canal 10",
+      "url": "http://45.170.40.11:8000/play/a007/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.519317Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Sembrador",
@@ -1538,9 +1824,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.610627Z",
+      "checked_at": "2026-07-03T01:26:33.019382Z",
       "error": null
     },
     {
@@ -1551,9 +1837,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.511933Z",
+      "checked_at": "2026-07-03T01:26:32.926327Z",
       "error": null
     },
     {
@@ -1564,9 +1850,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.611189Z",
+      "checked_at": "2026-07-03T01:26:33.019551Z",
       "error": null
     },
     {
@@ -1577,10 +1863,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 146,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.512765Z",
+      "checked_at": "2026-07-03T01:26:33.011768Z",
       "error": null
+    },
+    {
+      "name": "Sony HD",
+      "url": "http://45.170.40.11:8000/play/a00q/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.519532Z",
+      "error": "HTTP 403"
     },
     {
       "name": "SONY HD",
@@ -1590,10 +1889,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.512953Z",
+      "checked_at": "2026-07-03T01:26:33.012369Z",
       "error": null
+    },
+    {
+      "name": "Sony Movies HD",
+      "url": "http://45.170.40.11:8000/play/a00x/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.519962Z",
+      "error": "HTTP 403"
     },
     {
       "name": "Sony Movies HD",
@@ -1603,9 +1915,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.611517Z",
+      "checked_at": "2026-07-03T01:26:33.019953Z",
       "error": null
     },
     {
@@ -1616,9 +1928,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.607423Z",
+      "checked_at": "2026-07-03T01:26:33.013038Z",
       "error": null
     },
     {
@@ -1629,9 +1941,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.607914Z",
+      "checked_at": "2026-07-03T01:26:33.014946Z",
       "error": null
     },
     {
@@ -1642,9 +1954,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.611900Z",
+      "checked_at": "2026-07-03T01:26:33.021613Z",
       "error": null
     },
     {
@@ -1655,9 +1967,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.612082Z",
+      "checked_at": "2026-07-03T01:26:33.022026Z",
       "error": null
     },
     {
@@ -1668,9 +1980,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.612483Z",
+      "checked_at": "2026-07-03T01:26:33.023302Z",
       "error": null
     },
     {
@@ -1681,9 +1993,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 109,
+      "response_time_ms": 148,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.614617Z",
+      "checked_at": "2026-07-03T01:26:33.027779Z",
       "error": null
     },
     {
@@ -1694,22 +2006,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.608297Z",
-      "error": null
-    },
-    {
-      "name": "TBN Enlace",
-      "url": "http://181.119.177.253:8000/play/a0ay/index.m3u8?hls",
-      "group": "-",
-      "tvg_id": "",
-      "source": "181.119.177.253:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 104,
-      "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.616822Z",
+      "checked_at": "2026-07-03T01:26:33.017746Z",
       "error": null
     },
     {
@@ -1720,9 +2019,22 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.617528Z",
+      "checked_at": "2026-07-03T01:26:33.031431Z",
+      "error": null
+    },
+    {
+      "name": "TBN Enlace",
+      "url": "http://181.119.177.253:8000/play/a0ay/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "181.119.177.253:8000",
+      "status": "active",
+      "http_code": 200,
+      "response_time_ms": 147,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:33.029881Z",
       "error": null
     },
     {
@@ -1733,9 +2045,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.617941Z",
+      "checked_at": "2026-07-03T01:26:33.071878Z",
       "error": null
     },
     {
@@ -1746,9 +2058,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.723817Z",
+      "checked_at": "2026-07-03T01:26:33.177575Z",
       "error": null
     },
     {
@@ -1759,10 +2071,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.724793Z",
+      "checked_at": "2026-07-03T01:26:33.301310Z",
       "error": null
+    },
+    {
+      "name": "Telefe Internacional",
+      "url": "http://45.170.40.11:8000/play/a009/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.525083Z",
+      "error": "HTTP 403"
     },
     {
       "name": "TELEHIT",
@@ -1772,9 +2097,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.618307Z",
+      "checked_at": "2026-07-03T01:26:33.157451Z",
       "error": null
     },
     {
@@ -1785,9 +2110,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.724198Z",
+      "checked_at": "2026-07-03T01:26:33.216671Z",
       "error": null
     },
     {
@@ -1798,9 +2123,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.725029Z",
+      "checked_at": "2026-07-03T01:26:33.301942Z",
       "error": null
     },
     {
@@ -1811,9 +2136,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.618698Z",
+      "checked_at": "2026-07-03T01:26:33.157777Z",
       "error": null
     },
     {
@@ -1824,9 +2149,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.816457Z",
+      "checked_at": "2026-07-03T01:26:33.303837Z",
       "error": null
     },
     {
@@ -1837,9 +2162,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.817705Z",
+      "checked_at": "2026-07-03T01:26:33.305477Z",
       "error": null
     },
     {
@@ -1850,9 +2175,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.819569Z",
+      "checked_at": "2026-07-03T01:26:33.306069Z",
       "error": null
     },
     {
@@ -1863,9 +2188,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.819860Z",
+      "checked_at": "2026-07-03T01:26:33.306458Z",
       "error": null
     },
     {
@@ -1876,9 +2201,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.711322Z",
+      "checked_at": "2026-07-03T01:26:33.158184Z",
       "error": null
     },
     {
@@ -1889,9 +2214,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.820073Z",
+      "checked_at": "2026-07-03T01:26:33.308284Z",
       "error": null
     },
     {
@@ -1902,10 +2227,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.713014Z",
+      "checked_at": "2026-07-03T01:26:33.158859Z",
       "error": null
+    },
+    {
+      "name": "TN",
+      "url": "http://45.170.40.11:8000/play/a050/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.520291Z",
+      "error": "HTTP 403"
     },
     {
       "name": "TN23 - GUA",
@@ -1915,9 +2253,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.714710Z",
+      "checked_at": "2026-07-03T01:26:33.160750Z",
       "error": null
     },
     {
@@ -1928,9 +2266,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.715344Z",
+      "checked_at": "2026-07-03T01:26:33.161860Z",
       "error": null
     },
     {
@@ -1941,9 +2279,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.715686Z",
+      "checked_at": "2026-07-03T01:26:33.163174Z",
       "error": null
     },
     {
@@ -1954,9 +2292,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.715882Z",
+      "checked_at": "2026-07-03T01:26:33.163359Z",
       "error": null
     },
     {
@@ -1967,9 +2305,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 141,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.716281Z",
+      "checked_at": "2026-07-03T01:26:33.166607Z",
       "error": null
     },
     {
@@ -1980,9 +2318,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.716778Z",
+      "checked_at": "2026-07-03T01:26:33.166997Z",
       "error": null
     },
     {
@@ -1993,9 +2331,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 147,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.820454Z",
+      "checked_at": "2026-07-03T01:26:33.309631Z",
       "error": null
     },
     {
@@ -2006,10 +2344,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 150,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.717263Z",
+      "checked_at": "2026-07-03T01:26:33.168975Z",
       "error": null
+    },
+    {
+      "name": "TV Publica",
+      "url": "http://45.170.40.11:8000/play/a04z/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.521363Z",
+      "error": "HTTP 403"
     },
     {
       "name": "TVE",
@@ -2019,9 +2370,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.721453Z",
+      "checked_at": "2026-07-03T01:26:33.176548Z",
       "error": null
     },
     {
@@ -2032,9 +2383,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 107,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.723202Z",
+      "checked_at": "2026-07-03T01:26:33.176750Z",
       "error": null
     },
     {
@@ -2045,9 +2396,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 102,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.821107Z",
+      "checked_at": "2026-07-03T01:26:33.310864Z",
       "error": null
     },
     {
@@ -2058,9 +2409,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.821231Z",
+      "checked_at": "2026-07-03T01:26:33.311255Z",
       "error": null
     },
     {
@@ -2071,9 +2422,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 104,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.822163Z",
+      "checked_at": "2026-07-03T01:26:33.320045Z",
       "error": null
     },
     {
@@ -2084,10 +2435,23 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.824336Z",
+      "checked_at": "2026-07-03T01:26:33.322223Z",
       "error": null
+    },
+    {
+      "name": "Universal HD",
+      "url": "http://45.170.40.11:8000/play/a01e/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.525487Z",
+      "error": "HTTP 403"
     },
     {
       "name": "UNIVERSAL PREMIERE HD",
@@ -2097,9 +2461,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.827748Z",
+      "checked_at": "2026-07-03T01:26:33.322398Z",
       "error": null
     },
     {
@@ -2110,9 +2474,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 143,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.828578Z",
+      "checked_at": "2026-07-03T01:26:33.325042Z",
       "error": null
     },
     {
@@ -2123,9 +2487,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 106,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.829897Z",
+      "checked_at": "2026-07-03T01:26:33.360457Z",
       "error": null
     },
     {
@@ -2136,9 +2500,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 145,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.830290Z",
+      "checked_at": "2026-07-03T01:26:33.444199Z",
       "error": null
     },
     {
@@ -2149,9 +2513,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 103,
+      "response_time_ms": 144,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.830509Z",
+      "checked_at": "2026-07-03T01:26:33.445981Z",
       "error": null
     },
     {
@@ -2164,8 +2528,47 @@
       "http_code": 404,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.922778Z",
+      "checked_at": "2026-07-03T01:26:33.447798Z",
       "error": "HTTP 404"
+    },
+    {
+      "name": "vtv",
+      "url": "http://45.170.40.11:8000/play/a04i/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.854533Z",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "VTV+",
+      "url": "http://45.170.40.11:8000/play/a04g/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.525918Z",
+      "error": "HTTP 403"
+    },
+    {
+      "name": "Warner Channel HD",
+      "url": "http://45.170.40.11:8000/play/a00r/index.m3u8?hls",
+      "group": "-",
+      "tvg_id": "",
+      "source": "45.170.40.11:8000",
+      "status": "denied",
+      "http_code": 403,
+      "response_time_ms": null,
+      "expires_at": null,
+      "checked_at": "2026-07-03T01:26:31.526813Z",
+      "error": "HTTP 403"
     },
     {
       "name": "WARNER HD",
@@ -2175,9 +2578,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 105,
+      "response_time_ms": 142,
       "expires_at": null,
-      "checked_at": "2026-07-02T19:04:20.923230Z",
+      "checked_at": "2026-07-03T01:26:33.449110Z",
       "error": null
     }
   ]
