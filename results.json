@@ -1,12 +1,12 @@
 {
   "stats": {
     "total": 295,
-    "active": 173,
+    "active": 167,
     "denied": 31,
-    "offline": 67,
+    "offline": 94,
     "timeout": 0,
-    "error": 24,
-    "last_check": "2026-10-25T15:06:19.032262Z"
+    "error": 3,
+    "last_check": "2026-10-25T20:02:46.809195Z"
   },
   "channels": [
     {
@@ -17,9 +17,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.113133Z",
+      "checked_at": "2026-10-25T20:02:44.303468Z",
       "error": null
     },
     {
@@ -30,9 +30,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.115953Z",
+      "checked_at": "2026-10-25T20:02:44.311756Z",
       "error": null
     },
     {
@@ -41,12 +41,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 403,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.626189Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.532212Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "42 - Extra TV 42",
@@ -56,9 +56,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.117408Z",
+      "checked_at": "2026-10-25T20:02:44.313034Z",
       "error": null
     },
     {
@@ -69,9 +69,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.117958Z",
+      "checked_at": "2026-10-25T20:02:44.314336Z",
       "error": null
     },
     {
@@ -80,12 +80,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 389,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.626417Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.532377Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "A&E HD",
@@ -97,7 +97,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.447877Z",
+      "checked_at": "2026-10-25T20:02:43.712847Z",
       "error": "HTTP 403"
     },
     {
@@ -108,9 +108,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.118427Z",
+      "checked_at": "2026-10-25T20:02:44.314574Z",
       "error": null
     },
     {
@@ -121,9 +121,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.118733Z",
+      "checked_at": "2026-10-25T20:02:44.314749Z",
       "error": null
     },
     {
@@ -132,12 +132,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 389,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.627631Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.532508Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Adult Swim",
@@ -147,9 +147,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 129,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.123774Z",
+      "checked_at": "2026-10-25T20:02:44.317313Z",
       "error": null
     },
     {
@@ -158,12 +158,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 408,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.629726Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.532793Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "AM SPORT",
@@ -171,12 +171,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 389,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.630933Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.598169Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "AMC",
@@ -186,9 +186,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.119017Z",
+      "checked_at": "2026-10-25T20:02:44.314929Z",
       "error": null
     },
     {
@@ -197,12 +197,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 400,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.640497Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.629545Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "AMC HD",
@@ -212,9 +212,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 111,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.120976Z",
+      "checked_at": "2026-10-25T20:02:44.315470Z",
       "error": null
     },
     {
@@ -223,12 +223,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "active",
-      "http_code": 200,
-      "response_time_ms": 394,
+      "status": "offline",
+      "http_code": null,
+      "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.641037Z",
-      "error": null
+      "checked_at": "2026-10-25T20:02:45.632404Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "AMERICA HD",
@@ -236,12 +236,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.729013Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.633509Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "America TV HD",
@@ -253,7 +253,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.447119Z",
+      "checked_at": "2026-10-25T20:02:43.713395Z",
       "error": "HTTP 403"
     },
     {
@@ -264,9 +264,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.128308Z",
+      "checked_at": "2026-10-25T20:02:44.318589Z",
       "error": null
     },
     {
@@ -275,12 +275,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.754757Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.633711Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Animal Planet HD",
@@ -290,9 +290,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.128498Z",
+      "checked_at": "2026-10-25T20:02:44.318954Z",
       "error": null
     },
     {
@@ -301,12 +301,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.755085Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.634487Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "AXN HD",
@@ -318,7 +318,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.446839Z",
+      "checked_at": "2026-10-25T20:02:43.713066Z",
       "error": "HTTP 403"
     },
     {
@@ -329,9 +329,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.122446Z",
+      "checked_at": "2026-10-25T20:02:44.315598Z",
       "error": null
     },
     {
@@ -342,9 +342,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.122691Z",
+      "checked_at": "2026-10-25T20:02:44.316014Z",
       "error": null
     },
     {
@@ -355,9 +355,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.136040Z",
+      "checked_at": "2026-10-25T20:02:44.324603Z",
       "error": null
     },
     {
@@ -368,9 +368,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.253336Z",
+      "checked_at": "2026-10-25T20:02:44.413342Z",
       "error": null
     },
     {
@@ -381,9 +381,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.255063Z",
+      "checked_at": "2026-10-25T20:02:44.424073Z",
       "error": null
     },
     {
@@ -392,12 +392,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.755340Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.640498Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "BANDAMAX",
@@ -407,9 +407,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.253813Z",
+      "checked_at": "2026-10-25T20:02:44.421794Z",
       "error": null
     },
     {
@@ -420,9 +420,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.253933Z",
+      "checked_at": "2026-10-25T20:02:44.423488Z",
       "error": null
     },
     {
@@ -431,12 +431,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.757311Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.640916Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Canal  21 - ESA",
@@ -446,9 +446,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.265799Z",
+      "checked_at": "2026-10-25T20:02:44.428578Z",
       "error": null
     },
     {
@@ -459,9 +459,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.269333Z",
+      "checked_at": "2026-10-25T20:02:44.429540Z",
       "error": null
     },
     {
@@ -472,9 +472,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.271955Z",
+      "checked_at": "2026-10-25T20:02:44.434435Z",
       "error": null
     },
     {
@@ -485,9 +485,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 112,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.389038Z",
+      "checked_at": "2026-10-25T20:02:44.523150Z",
       "error": null
     },
     {
@@ -498,9 +498,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.255141Z",
+      "checked_at": "2026-10-25T20:02:44.424742Z",
       "error": null
     },
     {
@@ -511,9 +511,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.389266Z",
+      "checked_at": "2026-10-25T20:02:44.531213Z",
       "error": null
     },
     {
@@ -524,9 +524,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.389602Z",
+      "checked_at": "2026-10-25T20:02:44.533126Z",
       "error": null
     },
     {
@@ -537,9 +537,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 148,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.390410Z",
+      "checked_at": "2026-10-25T20:02:44.533810Z",
       "error": null
     },
     {
@@ -550,9 +550,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 147,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.390941Z",
+      "checked_at": "2026-10-25T20:02:44.534316Z",
       "error": null
     },
     {
@@ -563,9 +563,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.391058Z",
+      "checked_at": "2026-10-25T20:02:44.534837Z",
       "error": null
     },
     {
@@ -576,9 +576,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 147,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.391246Z",
+      "checked_at": "2026-10-25T20:02:44.535028Z",
       "error": null
     },
     {
@@ -589,9 +589,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.391494Z",
+      "checked_at": "2026-10-25T20:02:44.535487Z",
       "error": null
     },
     {
@@ -602,9 +602,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 145,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.393131Z",
+      "checked_at": "2026-10-25T20:02:44.535845Z",
       "error": null
     },
     {
@@ -615,9 +615,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.397117Z",
+      "checked_at": "2026-10-25T20:02:44.537136Z",
       "error": null
     },
     {
@@ -628,9 +628,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.401587Z",
+      "checked_at": "2026-10-25T20:02:44.538060Z",
       "error": null
     },
     {
@@ -641,9 +641,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.404054Z",
+      "checked_at": "2026-10-25T20:02:44.538459Z",
       "error": null
     },
     {
@@ -654,9 +654,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.406496Z",
+      "checked_at": "2026-10-25T20:02:44.539392Z",
       "error": null
     },
     {
@@ -667,9 +667,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.406826Z",
+      "checked_at": "2026-10-25T20:02:44.544545Z",
       "error": null
     },
     {
@@ -680,9 +680,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.445683Z",
+      "checked_at": "2026-10-25T20:02:44.607897Z",
       "error": null
     },
     {
@@ -691,12 +691,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.757415Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.642025Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Canal Antigua - GUA",
@@ -706,9 +706,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 141,
+      "response_time_ms": 111,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.522510Z",
+      "checked_at": "2026-10-25T20:02:44.635676Z",
       "error": null
     },
     {
@@ -719,9 +719,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.524582Z",
+      "checked_at": "2026-10-25T20:02:44.642044Z",
       "error": null
     },
     {
@@ -732,9 +732,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.525243Z",
+      "checked_at": "2026-10-25T20:02:44.643024Z",
       "error": null
     },
     {
@@ -745,9 +745,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 141,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.255316Z",
+      "checked_at": "2026-10-25T20:02:44.424873Z",
       "error": null
     },
     {
@@ -756,12 +756,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.757615Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.642500Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Canal del Congreso",
@@ -771,9 +771,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.525321Z",
+      "checked_at": "2026-10-25T20:02:44.643718Z",
       "error": null
     },
     {
@@ -784,9 +784,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.255507Z",
+      "checked_at": "2026-10-25T20:02:44.425019Z",
       "error": null
     },
     {
@@ -795,12 +795,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.759920Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.682956Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Cartoonito",
@@ -810,9 +810,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.526841Z",
+      "checked_at": "2026-10-25T20:02:44.644257Z",
       "error": null
     },
     {
@@ -823,9 +823,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 145,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.255782Z",
+      "checked_at": "2026-10-25T20:02:44.425520Z",
       "error": null
     },
     {
@@ -836,9 +836,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.257126Z",
+      "checked_at": "2026-10-25T20:02:44.426362Z",
       "error": null
     },
     {
@@ -847,12 +847,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.015651Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.713497Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Cine Latino",
@@ -862,9 +862,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.536703Z",
+      "checked_at": "2026-10-25T20:02:44.644441Z",
       "error": null
     },
     {
@@ -875,9 +875,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.538134Z",
+      "checked_at": "2026-10-25T20:02:44.645167Z",
       "error": null
     },
     {
@@ -888,9 +888,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.257230Z",
+      "checked_at": "2026-10-25T20:02:44.426711Z",
       "error": null
     },
     {
@@ -899,12 +899,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.017473Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.714184Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Cinemax",
@@ -916,7 +916,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.447694Z",
+      "checked_at": "2026-10-25T20:02:43.714027Z",
       "error": "HTTP 403"
     },
     {
@@ -927,9 +927,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.538749Z",
+      "checked_at": "2026-10-25T20:02:44.645516Z",
       "error": null
     },
     {
@@ -938,12 +938,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.020247Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.714533Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "CIUDAD MAGAZINE",
@@ -951,12 +951,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.029434Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.715244Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Claro Sports 1 HD",
@@ -966,9 +966,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.538893Z",
+      "checked_at": "2026-10-25T20:02:44.645901Z",
       "error": null
     },
     {
@@ -979,9 +979,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.539003Z",
+      "checked_at": "2026-10-25T20:02:44.647183Z",
       "error": null
     },
     {
@@ -994,7 +994,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.447484Z",
+      "checked_at": "2026-10-25T20:02:43.713756Z",
       "error": "HTTP 403"
     },
     {
@@ -1003,12 +1003,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.035810Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.779516Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "CNNE",
@@ -1018,9 +1018,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 129,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.259778Z",
+      "checked_at": "2026-10-25T20:02:44.427893Z",
       "error": null
     },
     {
@@ -1031,9 +1031,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 143,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.539219Z",
+      "checked_at": "2026-10-25T20:02:44.648048Z",
       "error": null
     },
     {
@@ -1042,12 +1042,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.037874Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.811845Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Concert Channel",
@@ -1057,9 +1057,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.539419Z",
+      "checked_at": "2026-10-25T20:02:44.648426Z",
       "error": null
     },
     {
@@ -1068,12 +1068,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
+      "status": "offline",
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:09.041325Z",
-      "error": "[Errno 104] Connection reset by peer"
+      "checked_at": "2026-10-25T20:02:45.813638Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "DE PELICULA",
@@ -1083,9 +1083,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.540910Z",
+      "checked_at": "2026-10-25T20:02:44.649141Z",
       "error": null
     },
     {
@@ -1096,9 +1096,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.662768Z",
+      "checked_at": "2026-10-25T20:02:44.751547Z",
       "error": null
     },
     {
@@ -1111,7 +1111,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.065292Z",
+      "checked_at": "2026-10-25T20:02:45.814703Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1122,9 +1122,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.546079Z",
+      "checked_at": "2026-10-25T20:02:44.654420Z",
       "error": null
     },
     {
@@ -1135,9 +1135,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.663694Z",
+      "checked_at": "2026-10-25T20:02:44.752316Z",
       "error": null
     },
     {
@@ -1148,9 +1148,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 147,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.583105Z",
+      "checked_at": "2026-10-25T20:02:44.718498Z",
       "error": null
     },
     {
@@ -1161,9 +1161,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 108,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.665595Z",
+      "checked_at": "2026-10-25T20:02:44.753310Z",
       "error": null
     },
     {
@@ -1176,7 +1176,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.065579Z",
+      "checked_at": "2026-10-25T20:02:45.815315Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1189,7 +1189,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.067474Z",
+      "checked_at": "2026-10-25T20:02:45.815597Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1200,9 +1200,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 108,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.666251Z",
+      "checked_at": "2026-10-25T20:02:44.753648Z",
       "error": null
     },
     {
@@ -1213,9 +1213,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 111,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.672893Z",
+      "checked_at": "2026-10-25T20:02:44.754868Z",
       "error": null
     },
     {
@@ -1226,9 +1226,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.673792Z",
+      "checked_at": "2026-10-25T20:02:44.755209Z",
       "error": null
     },
     {
@@ -1241,7 +1241,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.067655Z",
+      "checked_at": "2026-10-25T20:02:45.821931Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1254,7 +1254,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.067822Z",
+      "checked_at": "2026-10-25T20:02:45.822393Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1267,7 +1267,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.067940Z",
+      "checked_at": "2026-10-25T20:02:45.823501Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1278,9 +1278,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.674321Z",
+      "checked_at": "2026-10-25T20:02:44.755964Z",
       "error": null
     },
     {
@@ -1293,7 +1293,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068142Z",
+      "checked_at": "2026-10-25T20:02:45.825011Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1306,7 +1306,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068266Z",
+      "checked_at": "2026-10-25T20:02:45.864672Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1317,9 +1317,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.676441Z",
+      "checked_at": "2026-10-25T20:02:44.756131Z",
       "error": null
     },
     {
@@ -1330,9 +1330,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.677222Z",
+      "checked_at": "2026-10-25T20:02:44.756848Z",
       "error": null
     },
     {
@@ -1345,7 +1345,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068362Z",
+      "checked_at": "2026-10-25T20:02:45.895791Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1356,9 +1356,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.677864Z",
+      "checked_at": "2026-10-25T20:02:44.758593Z",
       "error": null
     },
     {
@@ -1371,7 +1371,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068441Z",
+      "checked_at": "2026-10-25T20:02:45.896025Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1384,7 +1384,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448251Z",
+      "checked_at": "2026-10-25T20:02:43.714564Z",
       "error": "HTTP 403"
     },
     {
@@ -1395,9 +1395,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 141,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.661061Z",
+      "checked_at": "2026-10-25T20:02:44.746897Z",
       "error": null
     },
     {
@@ -1410,7 +1410,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448007Z",
+      "checked_at": "2026-10-25T20:02:43.714319Z",
       "error": "HTTP 403"
     },
     {
@@ -1423,7 +1423,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068572Z",
+      "checked_at": "2026-10-25T20:02:45.896560Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1434,9 +1434,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.678081Z",
+      "checked_at": "2026-10-25T20:02:44.758942Z",
       "error": null
     },
     {
@@ -1449,7 +1449,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448436Z",
+      "checked_at": "2026-10-25T20:02:43.714850Z",
       "error": "HTTP 403"
     },
     {
@@ -1460,9 +1460,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.682798Z",
+      "checked_at": "2026-10-25T20:02:44.759115Z",
       "error": null
     },
     {
@@ -1475,7 +1475,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068709Z",
+      "checked_at": "2026-10-25T20:02:45.896918Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1486,9 +1486,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.811066Z",
+      "checked_at": "2026-10-25T20:02:44.866607Z",
       "error": null
     },
     {
@@ -1501,7 +1501,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068793Z",
+      "checked_at": "2026-10-25T20:02:45.961041Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1514,7 +1514,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.792918Z",
+      "checked_at": "2026-10-25T20:02:44.019602Z",
       "error": "HTTP 403"
     },
     {
@@ -1527,7 +1527,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.068961Z",
+      "checked_at": "2026-10-25T20:02:45.995395Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1540,7 +1540,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.070028Z",
+      "checked_at": "2026-10-25T20:02:45.995679Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1553,7 +1553,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.794328Z",
+      "checked_at": "2026-10-25T20:02:44.020101Z",
       "error": "HTTP 403"
     },
     {
@@ -1564,9 +1564,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.683280Z",
+      "checked_at": "2026-10-25T20:02:44.764486Z",
       "error": null
     },
     {
@@ -1579,7 +1579,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.262538Z",
+      "checked_at": "2026-10-25T20:02:45.995995Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1592,7 +1592,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448581Z",
+      "checked_at": "2026-10-25T20:02:43.715097Z",
       "error": "HTTP 403"
     },
     {
@@ -1603,9 +1603,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.731159Z",
+      "checked_at": "2026-10-25T20:02:44.828266Z",
       "error": null
     },
     {
@@ -1618,7 +1618,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448688Z",
+      "checked_at": "2026-10-25T20:02:43.715364Z",
       "error": "HTTP 403"
     },
     {
@@ -1629,9 +1629,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.799631Z",
+      "checked_at": "2026-10-25T20:02:44.857132Z",
       "error": null
     },
     {
@@ -1644,7 +1644,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.265827Z",
+      "checked_at": "2026-10-25T20:02:45.996440Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1657,7 +1657,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448793Z",
+      "checked_at": "2026-10-25T20:02:43.715610Z",
       "error": "HTTP 403"
     },
     {
@@ -1670,7 +1670,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.267483Z",
+      "checked_at": "2026-10-25T20:02:45.997418Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1681,9 +1681,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.800437Z",
+      "checked_at": "2026-10-25T20:02:44.861104Z",
       "error": null
     },
     {
@@ -1696,7 +1696,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.267629Z",
+      "checked_at": "2026-10-25T20:02:46.004003Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1707,9 +1707,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.801621Z",
+      "checked_at": "2026-10-25T20:02:44.862364Z",
       "error": null
     },
     {
@@ -1720,9 +1720,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.801846Z",
+      "checked_at": "2026-10-25T20:02:44.862711Z",
       "error": null
     },
     {
@@ -1733,9 +1733,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.802265Z",
+      "checked_at": "2026-10-25T20:02:44.863055Z",
       "error": null
     },
     {
@@ -1748,7 +1748,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.268189Z",
+      "checked_at": "2026-10-25T20:02:46.004619Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1761,7 +1761,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.268323Z",
+      "checked_at": "2026-10-25T20:02:46.006099Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1772,9 +1772,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.807486Z",
+      "checked_at": "2026-10-25T20:02:44.865814Z",
       "error": null
     },
     {
@@ -1787,7 +1787,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.268461Z",
+      "checked_at": "2026-10-25T20:02:46.006464Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1798,9 +1798,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.812036Z",
+      "checked_at": "2026-10-25T20:02:44.866946Z",
       "error": null
     },
     {
@@ -1811,9 +1811,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.809631Z",
+      "checked_at": "2026-10-25T20:02:44.866141Z",
       "error": null
     },
     {
@@ -1822,12 +1822,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
-      "http_code": 404,
+      "status": "offline",
+      "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.268797Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:46.046041Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Exa TV",
@@ -1837,9 +1837,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.812444Z",
+      "checked_at": "2026-10-25T20:02:44.867263Z",
       "error": null
     },
     {
@@ -1852,7 +1852,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.448904Z",
+      "checked_at": "2026-10-25T20:02:43.715825Z",
       "error": "HTTP 403"
     },
     {
@@ -1863,9 +1863,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.935565Z",
+      "checked_at": "2026-10-25T20:02:44.967794Z",
       "error": null
     },
     {
@@ -1874,12 +1874,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
-      "http_code": 404,
+      "status": "offline",
+      "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.268914Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:46.077877Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Film & arts HD",
@@ -1889,9 +1889,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 145,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.936232Z",
+      "checked_at": "2026-10-25T20:02:44.970984Z",
       "error": null
     },
     {
@@ -1902,9 +1902,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.812675Z",
+      "checked_at": "2026-10-25T20:02:44.868270Z",
       "error": null
     },
     {
@@ -1917,7 +1917,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.273222Z",
+      "checked_at": "2026-10-25T20:02:46.078195Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -1926,12 +1926,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
-      "http_code": 404,
+      "status": "offline",
+      "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.274515Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:46.078555Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "FOX SPORT 3",
@@ -1939,12 +1939,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
-      "http_code": 404,
+      "status": "offline",
+      "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.274650Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:46.078863Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Fox Sports 2",
@@ -1956,7 +1956,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.449046Z",
+      "checked_at": "2026-10-25T20:02:43.716084Z",
       "error": "HTTP 403"
     },
     {
@@ -1967,9 +1967,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.937683Z",
+      "checked_at": "2026-10-25T20:02:44.972629Z",
       "error": null
     },
     {
@@ -1980,9 +1980,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.815066Z",
+      "checked_at": "2026-10-25T20:02:44.868706Z",
       "error": null
     },
     {
@@ -1993,9 +1993,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.815384Z",
+      "checked_at": "2026-10-25T20:02:44.869008Z",
       "error": null
     },
     {
@@ -2006,9 +2006,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 133,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.819202Z",
+      "checked_at": "2026-10-25T20:02:44.874677Z",
       "error": null
     },
     {
@@ -2019,9 +2019,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.866452Z",
+      "checked_at": "2026-10-25T20:02:44.937652Z",
       "error": null
     },
     {
@@ -2034,7 +2034,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.274751Z",
+      "checked_at": "2026-10-25T20:02:46.142265Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2043,12 +2043,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.209.38.115:8000",
-      "status": "error",
-      "http_code": 404,
+      "status": "offline",
+      "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.278854Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:46.176883Z",
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Gobierno GUA",
@@ -2058,9 +2058,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.937902Z",
+      "checked_at": "2026-10-25T20:02:44.972767Z",
       "error": null
     },
     {
@@ -2071,9 +2071,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.938108Z",
+      "checked_at": "2026-10-25T20:02:44.973171Z",
       "error": null
     },
     {
@@ -2084,9 +2084,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.941635Z",
+      "checked_at": "2026-10-25T20:02:44.975759Z",
       "error": null
     },
     {
@@ -2097,9 +2097,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.947481Z",
+      "checked_at": "2026-10-25T20:02:44.976083Z",
       "error": null
     },
     {
@@ -2110,9 +2110,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.947858Z",
+      "checked_at": "2026-10-25T20:02:44.977093Z",
       "error": null
     },
     {
@@ -2125,7 +2125,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.278977Z",
+      "checked_at": "2026-10-25T20:02:46.177180Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2138,7 +2138,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.462201Z",
+      "checked_at": "2026-10-25T20:02:46.177484Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2151,7 +2151,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.462527Z",
+      "checked_at": "2026-10-25T20:02:46.178723Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2164,7 +2164,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.467176Z",
+      "checked_at": "2026-10-25T20:02:46.182627Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2175,9 +2175,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.948363Z",
+      "checked_at": "2026-10-25T20:02:44.977457Z",
       "error": null
     },
     {
@@ -2188,9 +2188,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.948434Z",
+      "checked_at": "2026-10-25T20:02:44.977658Z",
       "error": null
     },
     {
@@ -2203,7 +2203,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.467317Z",
+      "checked_at": "2026-10-25T20:02:46.185488Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2214,9 +2214,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.948598Z",
+      "checked_at": "2026-10-25T20:02:44.978209Z",
       "error": null
     },
     {
@@ -2229,7 +2229,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.467949Z",
+      "checked_at": "2026-10-25T20:02:46.186142Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2240,9 +2240,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.950019Z",
+      "checked_at": "2026-10-25T20:02:44.978719Z",
       "error": null
     },
     {
@@ -2255,7 +2255,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.470030Z",
+      "checked_at": "2026-10-25T20:02:46.188708Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2266,9 +2266,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.950359Z",
+      "checked_at": "2026-10-25T20:02:44.979654Z",
       "error": null
     },
     {
@@ -2279,9 +2279,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.952559Z",
+      "checked_at": "2026-10-25T20:02:44.984047Z",
       "error": null
     },
     {
@@ -2294,7 +2294,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.470111Z",
+      "checked_at": "2026-10-25T20:02:46.189548Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2307,7 +2307,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.470238Z",
+      "checked_at": "2026-10-25T20:02:46.227845Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2320,7 +2320,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.449174Z",
+      "checked_at": "2026-10-25T20:02:43.716363Z",
       "error": "HTTP 403"
     },
     {
@@ -2331,9 +2331,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.075103Z",
+      "checked_at": "2026-10-25T20:02:45.080808Z",
       "error": null
     },
     {
@@ -2344,9 +2344,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.079939Z",
+      "checked_at": "2026-10-25T20:02:45.082477Z",
       "error": null
     },
     {
@@ -2357,9 +2357,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 141,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.002851Z",
+      "checked_at": "2026-10-25T20:02:45.047587Z",
       "error": null
     },
     {
@@ -2370,9 +2370,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.071582Z",
+      "checked_at": "2026-10-25T20:02:45.077667Z",
       "error": null
     },
     {
@@ -2385,7 +2385,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.472103Z",
+      "checked_at": "2026-10-25T20:02:46.259036Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2396,9 +2396,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 108,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.080612Z",
+      "checked_at": "2026-10-25T20:02:45.083058Z",
       "error": null
     },
     {
@@ -2411,7 +2411,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.477625Z",
+      "checked_at": "2026-10-25T20:02:46.260056Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2422,9 +2422,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.080833Z",
+      "checked_at": "2026-10-25T20:02:45.083251Z",
       "error": null
     },
     {
@@ -2437,7 +2437,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.659996Z",
+      "checked_at": "2026-10-25T20:02:46.260741Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2450,7 +2450,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.663720Z",
+      "checked_at": "2026-10-25T20:02:46.261146Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2463,7 +2463,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.663939Z",
+      "checked_at": "2026-10-25T20:02:46.324103Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2476,7 +2476,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.449278Z",
+      "checked_at": "2026-10-25T20:02:43.716615Z",
       "error": "HTTP 403"
     },
     {
@@ -2487,9 +2487,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.081033Z",
+      "checked_at": "2026-10-25T20:02:45.086028Z",
       "error": null
     },
     {
@@ -2500,9 +2500,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 141,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.081530Z",
+      "checked_at": "2026-10-25T20:02:45.086510Z",
       "error": null
     },
     {
@@ -2513,9 +2513,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.081958Z",
+      "checked_at": "2026-10-25T20:02:45.087000Z",
       "error": null
     },
     {
@@ -2528,7 +2528,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.775092Z",
+      "checked_at": "2026-10-25T20:02:44.007901Z",
       "error": "HTTP 403"
     },
     {
@@ -2539,9 +2539,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.083768Z",
+      "checked_at": "2026-10-25T20:02:45.087188Z",
       "error": null
     },
     {
@@ -2554,7 +2554,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.668279Z",
+      "checked_at": "2026-10-25T20:02:46.358498Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2565,9 +2565,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.083849Z",
+      "checked_at": "2026-10-25T20:02:45.087695Z",
       "error": null
     },
     {
@@ -2580,7 +2580,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.670412Z",
+      "checked_at": "2026-10-25T20:02:46.359897Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2593,7 +2593,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.671044Z",
+      "checked_at": "2026-10-25T20:02:46.360110Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2606,7 +2606,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.777418Z",
+      "checked_at": "2026-10-25T20:02:44.008985Z",
       "error": "HTTP 403"
     },
     {
@@ -2619,7 +2619,7 @@
       "http_code": 404,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.084573Z",
+      "checked_at": "2026-10-25T20:02:45.088049Z",
       "error": "HTTP 404"
     },
     {
@@ -2632,7 +2632,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.671416Z",
+      "checked_at": "2026-10-25T20:02:46.361109Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2643,9 +2643,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 111,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.084981Z",
+      "checked_at": "2026-10-25T20:02:45.088517Z",
       "error": null
     },
     {
@@ -2658,7 +2658,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.673799Z",
+      "checked_at": "2026-10-25T20:02:46.365024Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2671,7 +2671,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.674052Z",
+      "checked_at": "2026-10-25T20:02:46.367634Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2682,9 +2682,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.086334Z",
+      "checked_at": "2026-10-25T20:02:45.090068Z",
       "error": null
     },
     {
@@ -2695,9 +2695,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.087091Z",
+      "checked_at": "2026-10-25T20:02:45.093797Z",
       "error": null
     },
     {
@@ -2708,9 +2708,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.144248Z",
+      "checked_at": "2026-10-25T20:02:45.157956Z",
       "error": null
     },
     {
@@ -2723,7 +2723,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.685448Z",
+      "checked_at": "2026-10-25T20:02:46.368187Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2736,7 +2736,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.859340Z",
+      "checked_at": "2026-10-25T20:02:46.370634Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2747,9 +2747,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.207280Z",
+      "checked_at": "2026-10-25T20:02:45.187924Z",
       "error": null
     },
     {
@@ -2762,7 +2762,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.783227Z",
+      "checked_at": "2026-10-25T20:02:44.009406Z",
       "error": "HTTP 403"
     },
     {
@@ -2775,7 +2775,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.783473Z",
+      "checked_at": "2026-10-25T20:02:44.009570Z",
       "error": "HTTP 403"
     },
     {
@@ -2786,9 +2786,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.218941Z",
+      "checked_at": "2026-10-25T20:02:45.196769Z",
       "error": null
     },
     {
@@ -2799,9 +2799,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.212577Z",
+      "checked_at": "2026-10-25T20:02:45.190812Z",
       "error": null
     },
     {
@@ -2812,9 +2812,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.220197Z",
+      "checked_at": "2026-10-25T20:02:45.197581Z",
       "error": null
     },
     {
@@ -2825,9 +2825,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 133,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.212732Z",
+      "checked_at": "2026-10-25T20:02:45.191985Z",
       "error": null
     },
     {
@@ -2840,7 +2840,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.785465Z",
+      "checked_at": "2026-10-25T20:02:44.010113Z",
       "error": "HTTP 403"
     },
     {
@@ -2851,9 +2851,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.216428Z",
+      "checked_at": "2026-10-25T20:02:45.192495Z",
       "error": null
     },
     {
@@ -2866,7 +2866,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.864485Z",
+      "checked_at": "2026-10-25T20:02:46.371428Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2879,7 +2879,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.864790Z",
+      "checked_at": "2026-10-25T20:02:46.409480Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2892,7 +2892,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.785840Z",
+      "checked_at": "2026-10-25T20:02:44.010623Z",
       "error": "HTTP 403"
     },
     {
@@ -2903,9 +2903,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.221522Z",
+      "checked_at": "2026-10-25T20:02:45.197951Z",
       "error": null
     },
     {
@@ -2916,9 +2916,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.217165Z",
+      "checked_at": "2026-10-25T20:02:45.192905Z",
       "error": null
     },
     {
@@ -2931,7 +2931,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.868810Z",
+      "checked_at": "2026-10-25T20:02:46.440801Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2944,7 +2944,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.870317Z",
+      "checked_at": "2026-10-25T20:02:46.441119Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -2955,9 +2955,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.217471Z",
+      "checked_at": "2026-10-25T20:02:45.195922Z",
       "error": null
     },
     {
@@ -2968,9 +2968,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 129,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.221631Z",
+      "checked_at": "2026-10-25T20:02:45.198342Z",
       "error": null
     },
     {
@@ -2981,9 +2981,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.222761Z",
+      "checked_at": "2026-10-25T20:02:45.199756Z",
       "error": null
     },
     {
@@ -2996,7 +2996,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.871456Z",
+      "checked_at": "2026-10-25T20:02:46.442423Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3007,9 +3007,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.222832Z",
+      "checked_at": "2026-10-25T20:02:45.200363Z",
       "error": null
     },
     {
@@ -3020,9 +3020,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 478,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.223055Z",
+      "checked_at": "2026-10-25T20:02:45.203866Z",
       "error": null
     },
     {
@@ -3033,9 +3033,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.217678Z",
+      "checked_at": "2026-10-25T20:02:45.196394Z",
       "error": null
     },
     {
@@ -3046,9 +3046,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.279025Z",
+      "checked_at": "2026-10-25T20:02:45.268436Z",
       "error": null
     },
     {
@@ -3059,9 +3059,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 144,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.343338Z",
+      "checked_at": "2026-10-25T20:02:45.298461Z",
       "error": null
     },
     {
@@ -3072,9 +3072,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.346106Z",
+      "checked_at": "2026-10-25T20:02:45.301591Z",
       "error": null
     },
     {
@@ -3087,7 +3087,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.874772Z",
+      "checked_at": "2026-10-25T20:02:46.443621Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3098,9 +3098,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.486268Z",
+      "checked_at": "2026-10-25T20:02:45.411914Z",
       "error": null
     },
     {
@@ -3111,9 +3111,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.487606Z",
+      "checked_at": "2026-10-25T20:02:45.413545Z",
       "error": null
     },
     {
@@ -3126,7 +3126,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.875214Z",
+      "checked_at": "2026-10-25T20:02:46.505985Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3139,7 +3139,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.788603Z",
+      "checked_at": "2026-10-25T20:02:44.011840Z",
       "error": "HTTP 403"
     },
     {
@@ -3150,9 +3150,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.348543Z",
+      "checked_at": "2026-10-25T20:02:45.301759Z",
       "error": null
     },
     {
@@ -3163,9 +3163,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 131,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.487382Z",
+      "checked_at": "2026-10-25T20:02:45.412366Z",
       "error": null
     },
     {
@@ -3176,9 +3176,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 115,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.488335Z",
+      "checked_at": "2026-10-25T20:02:45.414918Z",
       "error": null
     },
     {
@@ -3191,7 +3191,7 @@
       "http_code": 404,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.348763Z",
+      "checked_at": "2026-10-25T20:02:45.302209Z",
       "error": "HTTP 404"
     },
     {
@@ -3202,9 +3202,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.351476Z",
+      "checked_at": "2026-10-25T20:02:45.302833Z",
       "error": null
     },
     {
@@ -3215,9 +3215,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 113,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.488565Z",
+      "checked_at": "2026-10-25T20:02:45.416547Z",
       "error": null
     },
     {
@@ -3228,9 +3228,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 114,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.489269Z",
+      "checked_at": "2026-10-25T20:02:45.416706Z",
       "error": null
     },
     {
@@ -3241,9 +3241,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 134,
+      "response_time_ms": 114,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.489469Z",
+      "checked_at": "2026-10-25T20:02:45.417077Z",
       "error": null
     },
     {
@@ -3254,9 +3254,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 113,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.489866Z",
+      "checked_at": "2026-10-25T20:02:45.418501Z",
       "error": null
     },
     {
@@ -3269,7 +3269,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.875576Z",
+      "checked_at": "2026-10-25T20:02:46.540528Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3280,9 +3280,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 108,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.351670Z",
+      "checked_at": "2026-10-25T20:02:45.305956Z",
       "error": null
     },
     {
@@ -3293,9 +3293,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 113,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.492926Z",
+      "checked_at": "2026-10-25T20:02:45.418831Z",
       "error": null
     },
     {
@@ -3308,7 +3308,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:10.894318Z",
+      "checked_at": "2026-10-25T20:02:46.542110Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3319,9 +3319,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 133,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.353457Z",
+      "checked_at": "2026-10-25T20:02:45.306343Z",
       "error": null
     },
     {
@@ -3334,7 +3334,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.787723Z",
+      "checked_at": "2026-10-25T20:02:44.010776Z",
       "error": "HTTP 403"
     },
     {
@@ -3347,7 +3347,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.057219Z",
+      "checked_at": "2026-10-25T20:02:46.542408Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3358,9 +3358,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.354192Z",
+      "checked_at": "2026-10-25T20:02:45.307016Z",
       "error": null
     },
     {
@@ -3371,9 +3371,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.355813Z",
+      "checked_at": "2026-10-25T20:02:45.307152Z",
       "error": null
     },
     {
@@ -3384,9 +3384,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.356087Z",
+      "checked_at": "2026-10-25T20:02:45.308252Z",
       "error": null
     },
     {
@@ -3399,7 +3399,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.067482Z",
+      "checked_at": "2026-10-25T20:02:46.542854Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3410,9 +3410,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.357097Z",
+      "checked_at": "2026-10-25T20:02:45.308618Z",
       "error": null
     },
     {
@@ -3425,7 +3425,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.069743Z",
+      "checked_at": "2026-10-25T20:02:46.546069Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3438,7 +3438,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.070731Z",
+      "checked_at": "2026-10-25T20:02:46.549357Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3449,9 +3449,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 145,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.358928Z",
+      "checked_at": "2026-10-25T20:02:45.310041Z",
       "error": null
     },
     {
@@ -3462,9 +3462,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 135,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.359434Z",
+      "checked_at": "2026-10-25T20:02:45.310713Z",
       "error": null
     },
     {
@@ -3477,7 +3477,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.071153Z",
+      "checked_at": "2026-10-25T20:02:46.552341Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3488,9 +3488,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 111,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.493278Z",
+      "checked_at": "2026-10-25T20:02:45.419743Z",
       "error": null
     },
     {
@@ -3501,9 +3501,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 142,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.359928Z",
+      "checked_at": "2026-10-25T20:02:45.378127Z",
       "error": null
     },
     {
@@ -3516,7 +3516,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.788054Z",
+      "checked_at": "2026-10-25T20:02:44.010972Z",
       "error": "HTTP 403"
     },
     {
@@ -3529,7 +3529,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.788431Z",
+      "checked_at": "2026-10-25T20:02:44.011475Z",
       "error": "HTTP 403"
     },
     {
@@ -3542,7 +3542,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.072123Z",
+      "checked_at": "2026-10-25T20:02:46.552779Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3553,9 +3553,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 171,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.417706Z",
+      "checked_at": "2026-10-25T20:02:45.407826Z",
       "error": null
     },
     {
@@ -3568,7 +3568,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.072239Z",
+      "checked_at": "2026-10-25T20:02:46.553020Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3579,9 +3579,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 140,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.483522Z",
+      "checked_at": "2026-10-25T20:02:45.411509Z",
       "error": null
     },
     {
@@ -3594,7 +3594,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.073945Z",
+      "checked_at": "2026-10-25T20:02:46.594749Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3605,9 +3605,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 130,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.495217Z",
+      "checked_at": "2026-10-25T20:02:45.421188Z",
       "error": null
     },
     {
@@ -3620,7 +3620,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.076638Z",
+      "checked_at": "2026-10-25T20:02:46.622394Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3631,9 +3631,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.502040Z",
+      "checked_at": "2026-10-25T20:02:45.487799Z",
       "error": null
     },
     {
@@ -3644,9 +3644,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 136,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.504156Z",
+      "checked_at": "2026-10-25T20:02:45.518614Z",
       "error": null
     },
     {
@@ -3657,9 +3657,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 139,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.588949Z",
+      "checked_at": "2026-10-25T20:02:45.521551Z",
       "error": null
     },
     {
@@ -3672,7 +3672,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.789697Z",
+      "checked_at": "2026-10-25T20:02:44.016840Z",
       "error": "HTTP 403"
     },
     {
@@ -3683,9 +3683,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 137,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.618141Z",
+      "checked_at": "2026-10-25T20:02:45.522460Z",
       "error": null
     },
     {
@@ -3696,9 +3696,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.618501Z",
+      "checked_at": "2026-10-25T20:02:45.522630Z",
       "error": null
     },
     {
@@ -3709,9 +3709,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 138,
+      "response_time_ms": 109,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.618728Z",
+      "checked_at": "2026-10-25T20:02:45.524498Z",
       "error": null
     },
     {
@@ -3722,9 +3722,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 133,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.620789Z",
+      "checked_at": "2026-10-25T20:02:45.530015Z",
       "error": null
     },
     {
@@ -3737,7 +3737,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.094018Z",
+      "checked_at": "2026-10-25T20:02:46.623510Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3746,12 +3746,12 @@
       "group": "-",
       "tvg_id": "",
       "source": "181.119.177.253:8000",
-      "status": "error",
-      "http_code": 404,
-      "response_time_ms": null,
+      "status": "active",
+      "http_code": 200,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.624280Z",
-      "error": "HTTP 404"
+      "checked_at": "2026-10-25T20:02:45.530384Z",
+      "error": null
     },
     {
       "name": "VIDEO ROLA",
@@ -3763,7 +3763,7 @@
       "http_code": 404,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.624480Z",
+      "checked_at": "2026-10-25T20:02:45.531205Z",
       "error": "HTTP 404"
     },
     {
@@ -3776,7 +3776,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.260743Z",
+      "checked_at": "2026-10-25T20:02:46.625540Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3789,7 +3789,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:07.107110Z",
+      "checked_at": "2026-10-25T20:02:44.302261Z",
       "error": "HTTP 403"
     },
     {
@@ -3802,7 +3802,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.789860Z",
+      "checked_at": "2026-10-25T20:02:44.018833Z",
       "error": "HTTP 403"
     },
     {
@@ -3815,7 +3815,7 @@
       "http_code": null,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:11.267142Z",
+      "checked_at": "2026-10-25T20:02:46.625779Z",
       "error": "[Errno 111] Connection refused"
     },
     {
@@ -3828,7 +3828,7 @@
       "http_code": 403,
       "response_time_ms": null,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:06.790786Z",
+      "checked_at": "2026-10-25T20:02:44.019268Z",
       "error": "HTTP 403"
     },
     {
@@ -3839,9 +3839,9 @@
       "source": "181.119.177.253:8000",
       "status": "active",
       "http_code": 200,
-      "response_time_ms": 132,
+      "response_time_ms": 110,
       "expires_at": null,
-      "checked_at": "2026-10-25T15:06:08.624779Z",
+      "checked_at": "2026-10-25T20:02:45.531679Z",
       "error": null
     }
   ]
